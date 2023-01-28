@@ -50,5 +50,26 @@ public class HomeWork3 {
         //-------------------------------------------------//
 
 
-            }
+        boolean isRain = false;
+        boolean isWeekend = true;
+        boolean isWorkDay = false;
+
+                if (isWorkDay && !isRain) {
+                    System.out.println("Сидим дома");
+                } else {
+                    System.out.println("Идём гулять");
+                }
+
+                if (isRain && !isWeekend) {System.out.println("Сидим дома");}
+                if (isWorkDay) {System.out.println("Сидим дома");}
+                if (isRain) {System.out.println("Сидим дома");}
+
+        //-----------------------------------------------------------------//
+
+
+
+    }
+
         }
+
+
