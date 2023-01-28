@@ -76,22 +76,21 @@ public class HomeWork3 {
 
         //----------------------------------------------------------------------//
 
+                System.out.println("Введите температуру");
+                Scanner console = new Scanner(System.in);
+                int temp1 = console.nextInt();
+                int temp2 = console.nextInt();
+
+                if (temp1 > 100 && temp2 <100) System.out.println("аппарат работает");
+
+                else
+                    System.out.println("аппарат не работает");
 
 
 
-        String Temperature1 = scanner.nextLine();
-        String Temperature2 = scanner.nextLine();
-        System.out.println(" Temperature1 = ");
-        System.out.println(" Temperature2 = ");
 
 
 
-        if (Temperature1 > 100 && !Temperature2 < 100);
-            System.out.println("Device is work");
-            else
-            System.out.println("Device is not work");
-
-            //не могу разобраться//
 
 
 
