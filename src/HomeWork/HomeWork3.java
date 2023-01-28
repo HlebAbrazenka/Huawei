@@ -87,15 +87,6 @@ public class HomeWork3 {
                     System.out.println("аппарат не работает");
 
 
-
-
-
-
-
-
-
-
-
     }
 
         }
