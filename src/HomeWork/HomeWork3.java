@@ -65,6 +65,35 @@ public class HomeWork3 {
                 if (isRain) {System.out.println("Сидим дома");}
 
         //-----------------------------------------------------------------//
+        boolean isEdekaOpen = true;
+        boolean isRewe = true;
+
+        if (isEdekaOpen && !isRewe) {
+            System.out.println("Я не могу купить еду, это False");
+        } else {
+            System.out.println("Я могу купить еду, это True");
+        }
+
+        //----------------------------------------------------------------------//
+
+
+
+
+        String Temperature1 = scanner.nextLine();
+        String Temperature2 = scanner.nextLine();
+        System.out.println(" Temperature1 = ");
+        System.out.println(" Temperature2 = ");
+
+
+
+        if (Temperature1 > 100 && !Temperature2 < 100);
+            System.out.println("Device is work");
+            else
+            System.out.println("Device is not work");
+
+            //не могу разобраться//
+
+
 
 
 
