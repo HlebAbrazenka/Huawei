@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70db672a-d497-4cd1-ad8e-89a6855d33a0" name="Changes" comment="HomeWork3">
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/HomeWork26jan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Probe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork/HomeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork/HomeWork3.java" afterDir="false" />
     </list>
@@ -42,9 +44,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HomeWork3">
-    <configuration name="Device6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork.Device6" />
+  <component name="RunManager" selected="Application.HomeWork26jan">
+    <configuration name="HomeWork26jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.HomeWork26jan" />
       <module name="Home" />
       <extension name="coverage">
         <pattern>
@@ -82,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Probe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.Probe" />
+      <module name="Home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <module name="Home" />
       <method v="2">
@@ -90,10 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeWork26jan" />
+        <item itemvalue="Application.Probe" />
         <item itemvalue="Application.HomeWork3" />
-        <item itemvalue="Application.Unnamed" />
-        <item itemvalue="Application.Device6" />
         <item itemvalue="Application.IstudyBasicJava1" />
+        <item itemvalue="Application.Unnamed" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674948166213</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork3">
+      <created>1674949064979</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674949064979</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HomeWork3">
+      <created>1674949149894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674949149894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -27,8 +27,8 @@ public class HomeWork3 {
 
 
         //------------------------------------------------//
-                int x = 10;
-                int y = 5;
+                int x = 100;
+                int y = 50;
 
                 System.out.println(x+y);
                 System.out.println(x-y);
