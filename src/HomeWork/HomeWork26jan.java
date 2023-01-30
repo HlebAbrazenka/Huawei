@@ -23,44 +23,28 @@ public class HomeWork26jan {
 //----------------------------------------------------//
 
 
-            int [] array = new int[5];
+        int[] array = new int[5];
 
-            for (int i = 0; i < array.length; i++) {
-                array[i] = (int)(Math.random()*90)+10;
-            }
-            System.out.println(Arrays.toString(array));
-
-            boolean num = true;
-            for (int i = 1; i < array.length; i++) {
-                if(array[i]<=array[i-1]){
-                    num = false;
-                    break;
-                }
-            }
-            if(num){
-                System.out.println("Array is the return sequence");
-            } else {
-                System.out.println("Array is not the return sequence");
-            }
-        //---------------------------------------------------------------------//
-
- //       int [] N = new int[4];
- //       for (int i = 0; i < N.length; i++) {
-   //         N[i] = (int)(Math.random()*7)+2;
-   //     }
-     //   System.out.println(Arrays.toString(N));
-
-       // for (int i=1; i <= 5; i++) {
-        //          System.out.print(i + " ");
-   //     }
-
-
-
+        for (int i = 0; i < array.length; i++) {
+            array[i] = (int) (Math.random() * 90) + 10;
         }
+        System.out.println(Arrays.toString(array));
+
+        boolean num = true;
+        for (int i = 1; i < array.length; i++) {
+            if (array[i] <= array[i - 1]) {
+                num = false;
+                break;
+            }
+        }
+        if (num) {
+            System.out.println("Array is the return sequence");
+        } else {
+            System.out.println("Array is not the return sequence");
+        }
+
+        //--------------------------------------------------------------------//
+        }
+
+
     }
-
-
-
-
-
-
